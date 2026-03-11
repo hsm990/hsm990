@@ -55,7 +55,7 @@ fun_fact:   "I went from writing firmware to writing frontend — both need prec
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
 ### 🔌 Embedded (Academic Background)
-![C++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![++](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Esp32](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=Raspberry%20Pi&logoColor=white)
 
