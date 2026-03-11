@@ -27,7 +27,7 @@ Currently crafting interfaces with **React**, **Supabase** & a lot of ☕
 ## 🧠 About Me
 
 ```yaml
-name:       "Your Name"
+name:       "HoussamEddine"
 location:   "Algeria 🇩🇿"
 focus:      ["UI/UX", "Web Apps", "Real-time data", "CMS"]
 education:  "Master's Degree — Embedded Systems Engineering"
