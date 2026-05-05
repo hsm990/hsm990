@@ -60,17 +60,9 @@ fun_fact:   "I went from writing firmware to writing frontend — both need prec
 ![ESP32](https://img.shields.io/badge/ESP32-E7352C?style=for-the-badge&logo=espressif&logoColor=white)
 
 
----
 
-## 📊 GitHub Stats
 
-<div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hsm990&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ECF8E&icon_color=3ECF8E)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hsm990&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=3ECF8E)
-
-</div>
 
 ---
 
