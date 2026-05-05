@@ -7,7 +7,7 @@
    \ V  V /  __/ |_) | | |_| |  __/\ V / 
     \_/\_/ \___|_.__/  |____/ \___| \_/  
 ```
-### Frontend · Supabase · WordPress · Embedded Systems
+### Full Stack · Supabase · WordPress · Embedded Systems
 
 </div>
 
@@ -17,7 +17,7 @@
 
 ### ⚡ I build things for the web — and sometimes for hardware too.
 
-**Frontend Engineer** · **WordPress Developer** · **Embedded Systems (M.Sc.)**  
+**Software Engineer** · **WordPress Developer** · **Embedded Systems (M.Sc.)**  
 Currently crafting interfaces with **React**, **Supabase** & a lot of ☕
 
 </div>
@@ -47,7 +47,10 @@ fun_fact:   "I went from writing firmware to writing frontend — both need prec
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### 🗄️ Backend & Database
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### 🔧 CMS & Other
